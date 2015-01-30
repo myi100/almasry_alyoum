@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> استمرار مظاهرات الغضب ضد الدنمارك</title>
+  <meta doc_id="amay1341"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="14/2/2006" date_publication="2006-02-14 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>وقنصل فرنسا بالإسكندرية يرفض الإساءة للرسول</p>
+ </body>
+</nitf>

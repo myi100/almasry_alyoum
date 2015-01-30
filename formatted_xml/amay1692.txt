@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> 3 آلاف يتظاهرون بفرع «الأزهر» في طنطا</title>
+  <meta doc_id="amay1692"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="21/2/2006" date_publication="2006-02-21 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>احتجاجاً علي الرسومات المسيئة للرسول</p>
+ </body>
+</nitf>

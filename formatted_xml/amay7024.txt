@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> مظاهرة أمام قسم السيدة زينب</title>
+  <meta doc_id="amay7024"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="27/6/2006" date_publication="2006-06-27 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>بمناسبة اليوم العالمي لمناهضة التعذيب</p>
+ </body>
+</nitf>

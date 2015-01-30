@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> مظاهرة حاشدة بميدان التحرير للتضامن</title>
+  <meta doc_id="amay8403"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="28/7/2006" date_publication="2006-07-28 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>مع لبنان واعتداءات أمنية علي المتظاهرين</p>
+ </body>
+</nitf>

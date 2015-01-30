@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> مظاهرة للأطباء بمستشفي الحُسين الجامعي</title>
+  <meta doc_id="amay5290"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="17/5/2006" date_publication="2006-05-17 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>تُطالب بالإفراج عن زملائهم المعتقلين</p>
+ </body>
+</nitf>

@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> طلاب جامعة القاهرة يتظاهرون تضامناً</title>
+  <meta doc_id="amay7648"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="10/7/2006" date_publication="2006-07-10 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>مع الفلسطينيين ويحرقون العلم الإسرائيلي</p>
+ </body>
+</nitf>

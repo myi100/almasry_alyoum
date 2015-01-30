@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> في ذكري احتلال العراق: مظاهرة</title>
+  <meta doc_id="amay2868"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="25/3/2006" date_publication="2006-03-25 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>في المنوفية وحصار أمني لمساجد أسيوط</p>
+ </body>
+</nitf>

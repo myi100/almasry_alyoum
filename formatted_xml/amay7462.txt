@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> غداً.. مصر دون صحافة حزبية أو مستقلة</title>
+  <meta doc_id="amay7462"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="8/7/2006" date_publication="2006-07-08 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>قراء وبائعو جرائد وإعلاميون يرسمون سيناريو صباح تغيب عنه الصحافة</p>
+ </body>
+</nitf>

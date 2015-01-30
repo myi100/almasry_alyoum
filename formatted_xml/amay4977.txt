@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> سنة مع الإيقاف لتامر حسني في قضية التزوير</title>
+  <meta doc_id="amay4977"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="12/5/2006" date_publication="2006-05-12 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>ومظاهرة أمام المحكمة تطالب بالإفراج عنه</p>
+ </body>
+</nitf>

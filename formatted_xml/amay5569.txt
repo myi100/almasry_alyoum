@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> الأساتذة المساندون للقضاة يهتفون ضد الأمن</title>
+  <meta doc_id="amay5569"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="27/5/2006" date_publication="2006-05-27 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>بسبب وجود سيارة ترحيلات داخل حرم الجامعة</p>
+ </body>
+</nitf>

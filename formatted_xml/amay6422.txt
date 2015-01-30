@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> 2005 ينتهي بثلاث مظاهرات للتضامن مع اللاجئين السودانيين</title>
+  <meta doc_id="amay6422"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="2/1/2006" date_publication="2006-01-02 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>وأيمن نور</p>
+ </body>
+</nitf>

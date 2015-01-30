@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> «عمومية الصحفيين» تناقش</title>
+  <meta doc_id="amay6119"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="2/6/2006" date_publication="2006-06-02 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>«إلغاء الحبس في قضايا النشر» والاعتقال</p>
+ </body>
+</nitf>

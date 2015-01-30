@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> الإصلاحيون يجهزون لرفع دعوي</title>
+  <meta doc_id="amay1533"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="17/2/2006" date_publication="2006-02-17 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>سب وقذف ضد «جمعة»</p>
+ </body>
+</nitf>

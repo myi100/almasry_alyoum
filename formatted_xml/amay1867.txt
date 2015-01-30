@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> مظاهرة لمنتجي الدواجن وأصحاب المحال</title>
+  <meta doc_id="amay1867"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="27/2/2006" date_publication="2006-02-27 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>ضد «الفراخ المجمدة» والإجراءات الحكومية</p>
+ </body>
+</nitf>

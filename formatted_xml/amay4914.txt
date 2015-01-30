@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> حبس 8 من «كفاية» 15 يوماً بتهمة</title>
+  <meta doc_id="amay4914"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="9/5/2006" date_publication="2006-05-09 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>سب رئيس الجمهورية وتجديد حبس 12</p>
+ </body>
+</nitf>

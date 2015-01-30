@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> شيخ الأزهر: مقاطعة منتجات الدول</title>
+  <meta doc_id="amay1305"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="7/2/2006" date_publication="2006-02-07 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>التي أساءت للرسول فرض علي المسلمين</p>
+ </body>
+</nitf>

@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> أساتذة الجامعة يتظاهرون أمام مقار المنظمات الدولية ويقدمون بياناً للسفارة الأمريكية:</title>
+  <meta doc_id="amay8589"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="3/8/2006" date_publication="2006-08-03 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>« إسرائيل تقوم بعملياتها بالوكالة عنكم.. ومصالحكم الاستراتيجية في خطر»</p>
+ </body>
+</nitf>

@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> أعضاء تدريس الإسكندرية يدينون الاعتداء</title>
+  <meta doc_id="amay5346"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="16/5/2006" date_publication="2006-05-16 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>علي المتظاهرين ويطالبون بالتحقيق مع المتورطين</p>
+ </body>
+</nitf>

@@ -1,0 +1,11 @@
+<nitf change_date="June 10, 2005" change_time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+ <head>
+  <title> القضاة والصحفيون خاضوا معركة «السلالم».. والأمن التزم الحزم والهدوء</title>
+  <meta doc_id="amay5616"/>
+  <meta source="الأهرام اليومي"/>
+  <pubdata alt_date="26/5/2006" date_publication="2006-05-26 00:00:00"/>
+ </head>
+ <body classs="full_text">
+  <p>عبدالعزيز: مصممون علي مشروعنا لاستقلال القضاء.. والمعلومات التي وصلت نظيف «غير صحيحة»</p>
+ </body>
+</nitf>
